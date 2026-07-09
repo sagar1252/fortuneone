@@ -1,0 +1,2465 @@
+FORTUNE ONE WEBSITE CONTENT
+===========================
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\blog-post\smart-homes.php
+--------------------------------------------------------
+
+The Evolution of Smart Homes: How Technology is Redefining Luxury Living
+
+Published on | Modern Construction Trends
+
+The concept of luxury living is no longer defined solely by square footage, marble countertops, or exclusive zip codes. As construction evolves over time, the defining metric of a premium residence has shifted towards intelligent integration. Today, smart home architecture and modern construction trends are merging to create living spaces that are responsive, intuitive, and highly personalized.
+
+From Concept to Foundation
+
+Historically, home automation was an afterthought—a system layered on top of an already completed structure. However, the evolution of construction dictates that technology must be integrated at the blueprint stage. Developers are now weaving robust digital infrastructure directly into the framework of the home, utilizing high-capacity wiring and centralized hubs that allow every system—from HVAC and security to lighting and entertainment—to communicate seamlessly.
+
+The Pillars of Modern Smart Architecture
+
+Automated Climate and Lighting Control: Modern homes learn your schedule, adjusting temperatures and lighting to match the time of day, optimizing both comfort and energy efficiency.
+
+Integrated Security Systems: Beyond standard alarms, today's luxury developments incorporate biometric access, AI-driven surveillance, and remote monitoring accessible via smartphone.
+
+Voice and Gesture Interfaces: The tactile interface is giving way to invisible controls, allowing residents to interact with their environment seamlessly.
+
+Energy Efficiency and Sustainability
+
+A key aspect of how construction is evolving with time is the focus on sustainability. Smart home tech plays a critical role here. Intelligent energy management systems can track consumption in real-time, automatically dimming lights in unoccupied rooms or shifting heavy energy usage to off-peak hours. This convergence of luxury and eco-consciousness is a defining hallmark of modern real estate development.
+
+The Future of Intuitive Living
+
+As we look forward, the boundary between technology and architecture will continue to blur. The homes of the future will not just be smart; they will be empathetic—capable of anticipating needs and adapting to the physical and emotional states of their occupants. At Fortune One Group, we recognize that true luxury lies in a home that takes care of you, allowing you to focus on what truly matters.
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\blog-post\sustainable-building.php
+--------------------------------------------------------
+
+Sustainable Building: The Rise of Eco-Friendly Construction Materials
+
+Published on | Green Architecture
+
+The construction industry is undergoing a profound transformation. As environmental awareness grows, understanding how construction is evolving with time requires looking closely at the materials we use. The shift toward sustainable building materials is no longer just a trend; it is becoming the fundamental standard for modern real estate development and green architecture.
+
+Rethinking Traditional Methods
+
+For decades, concrete and steel have been the undisputed kings of construction. However, their production carries a massive carbon footprint. Today, architects and developers are turning to innovative, eco-friendly alternatives that offer incredible strength and durability without compromising the health of our planet.
+
+Key Eco-Friendly Materials Shaping the Future
+
+Mass Timber and Cross-Laminated Timber (CLT): Wood is making a massive comeback. Engineered timber products like CLT are exceptionally strong, fire-resistant, and act as a carbon sink, locking away CO2 that would otherwise be released into the atmosphere.
+
+Recycled Steel and Reclaimed Wood: Utilizing materials that have already been processed significantly reduces the energy required for manufacturing. These materials also add a unique aesthetic character to modern developments.
+
+Green Concrete: Innovations in concrete production involve replacing carbon-heavy cement with industrial by-products like fly ash or slag, resulting in a significantly lower environmental impact.
+
+Mycelium and Hempcrete: At the cutting edge of material science, builders are experimenting with organic materials. Hempcrete offers incredible insulation, while mycelium (mushroom roots) can be grown into custom shapes for packaging and insulation.
+
+The Benefits Beyond the Environment
+
+The adoption of sustainable building materials offers tangible benefits beyond environmental conservation. Eco-friendly structures often boast superior thermal insulation, leading to drastically reduced energy bills for residents. Furthermore, buildings constructed with non-toxic, natural materials promote better indoor air quality, directly contributing to the health and well-being of the occupants.
+
+Commitment to a Greener Horizon
+
+As the evolution of construction accelerates, integrating sustainable practices is essential. At Fortune One, we believe that building the future means preserving it. By championing eco-friendly materials and green architectural principles, we ensure that our developments stand the test of time—both structurally and environmentally.
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\blog-post\virtual-reality.php
+--------------------------------------------------------
+
+From Blueprints to Virtual Reality: The Future of Architectural Design
+
+Published on | Real Estate Tech
+
+The days of relying solely on flat, two-dimensional blueprints to envision a future space are rapidly fading. When examining how construction is evolving with time, the most dramatic shift is occurring in the visualization phase. The integration of Virtual Reality (VR) and Augmented Reality (AR) in real estate and architectural design is revolutionizing how we plan, build, and experience spaces before a single brick is laid.
+
+Immersive Design and Client Experience
+
+Traditional blueprints can be difficult for clients to interpret. VR technology bridges this gap by allowing stakeholders to step inside a fully realized 3D model of their future home or commercial space. This immersive experience allows clients to feel the scale of a room, observe how natural light shifts throughout the day, and interact with the environment in real-time. This level of clarity ensures that the final product perfectly aligns with the client's vision.
+
+Enhancing the Construction Workflow
+
+Beyond client presentations, VR and 3D modeling—specifically Building Information Modeling (BIM)—are transforming the operational side of construction. 
+
+Clash Detection: Before construction begins, contractors can navigate the digital model to identify conflicts (e.g., plumbing intersecting with electrical lines), saving millions in costly reworks.
+
+Material Estimation: Advanced software can calculate exact material requirements directly from the 3D model, drastically reducing waste and improving budget accuracy.
+
+Remote Collaboration: Architects in London, engineers in New York, and developers in Bengaluru can meet inside the same virtual building, discussing modifications in real-time.
+
+Augmented Reality on the Job Site
+
+While VR is utilized primarily in the design phase, Augmented Reality is making its way to the actual construction site. By wearing AR glasses, construction workers can overlay digital plans onto the physical space, visualizing exactly where a wall should go or where structural supports are required, increasing precision and safety.
+
+The Fortune One Approach
+
+At Fortune One Group, embracing the future of architectural tech is not just about adopting new tools; it's about delivering absolute certainty to our clients. By utilizing advanced 3D visualization and immersive technologies, we ensure that every project transitions flawlessly from a digital dream to a concrete legacy.
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\booking_view.php
+--------------------------------------------------------
+
+Book a Meeting
+
+Select a Date
+
+←
+
+→
+
+SUN
+
+MON
+
+TUE
+
+WED
+
+THU
+
+FRI
+
+SAT
+
+Select a Time for 
+
+Please select a date from the calendar first.
+
+Enter your details
+
+Full Name *
+
+Email Address *
+
+Phone Number (Optional)
+
+Message (Optional)
+
+Request Meeting
+
+Meeting Request Sent!
+
+Your meeting request has been sent successfully. We will contact you shortly.
+
+Date: 
+
+Time:
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\email\booking_email.php
+--------------------------------------------------------
+
+Appointment Confirmed
+
+Full Name
+
+Email Address
+
+Phone Number
+
+Date
+
+Time
+
+Meeting Link
+
+Join Google Meet
+
+Message
+
+Fortune One Group
+
+Where Vision Creates Legacy
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\errors\html\error_400.php
+--------------------------------------------------------
+
+400
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\errors\html\error_404.php
+--------------------------------------------------------
+
+404
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\errors\html\error_exception.php
+--------------------------------------------------------
+
+Displayed at —
+PHP: —
+CodeIgniter: --
+Environment: 
+
+search →
+
+at line 
+
+Caused by:
+
+search →
+
+Backtrace
+
+Server
+
+Request
+
+Response
+
+Files
+
+Memory
+
+{PHP internal code}
+
+  —  
+
+( arguments )
+
+()
+
+  —   ()
+
+$
+
+Key
+Value
+
+Constants
+
+Key
+Value
+
+Path
+
+HTTP Method
+
+IP Address
+
+Is AJAX Request?
+
+Is CLI Request?
+
+Is Secure Request?
+
+User Agent
+
+$
+
+Key
+Value
+
+No $_GET, $_POST, or $_COOKIE Information to show.
+
+Headers
+
+Header
+Value
+
+Response Status
+
+Headers
+
+Header
+Value
+
+Memory Usage
+
+Peak Memory Usage:
+
+Memory Limit:
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\layouts\footer.php
+--------------------------------------------------------
+
+Where Vision Creates Legacy · Est. 2004
+
+Fortune One is a premier real estate and advisory firm dedicated to architecting the future of enterprise and luxury developments. We build with integrity and absolute discretion.
+
+Quick Links
+
+Home
+
+About
+
+Portfolio
+
+Blog
+
+Career
+
+NRI Support
+
+Contact
+
+Book Appointment
+
+Our Projects
+
+EshaVana
+
+Vista
+
+Skylark
+
+Pyramid
+
+Contact Details
+
+1st.floor, kfc building Billor’s Pladium,
+19/3, Cunningham Rd, Bengaluru,
+Karnataka 560001
+
++91 79960 00533
+
+cbo@fortuneone.co (Land & Collab)
+
+reach@fortuneone.co (Sales & Support)
+
+hr@fortuneone.co (Career)
+
+Book a Meeting
+
+© 2026 Fortune One Group. All Rights Reserved.
+
+Global Advisory Firm 2023
+FT 1000 · 2024
+
+FORTUNE ONE DEVELOPERS • LIVE BETTER, LIVE FORTUNE • FORTUNE ONE • 
+
+AI Consultant
+
+Call Us
+
+Book Meeting
+
+WhatsApp
+
+Instagram
+
+LinkedIn
+
+Facebook
+
+YouTube
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\layouts\header.php
+--------------------------------------------------------
+
+FORTUNE ONE DEVELOPERS • LIVE BETTER, LIVE FORTUNE • FORTUNE ONE • 
+
+FORTUNE ONE
+
+Crafting Excellence
+
+0%
+
+Home
+
+About
+
+Portfolio
+
+NRI Support
+
+Brochures 
+
+EshaVana
+
+Vistaa
+
+Career
+
+Blog
+
+Contact
+
+Book an Appointment
+
+×
+
+Home
+
+About
+
+Portfolio
+
+NRI Support
+
+Brochures ▾
+
+EshaVana
+
+Vistaa
+
+Career
+
+Blog
+
+Contact
+
+Book an Appointment
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\pages\about.php
+--------------------------------------------------------
+
+About
+ 
+Fortune
+ 
+One
+
+A story of vision, innovation, and excellence — two decades in the making.
+
+FORTUNE ONE
+
+Established 2004
+
+Building More Than Spaces.
+
+Dear Friends and Partners,
+
+At Fortune One, we go beyond building structures — we craft meaningful spaces where design meets purpose and integrity drives every decision. Rooted in the principles of trust, transparency, and quality, our developments embody enduring value and thoughtful craftsmanship.
+
+Each project is a reflection of our commitment to elevate lifestyles, empower communities, and create investments that stand the test of time. Guided by vision and built with precision, Fortune One continues to redefine real estate with innovation, authenticity, and a human touch.
+
+Sincerely,
+
+Fortune One
+Founders & Visionaries
+
+Luxury Residences
+Premium Farm Lands
+Exclusive Communities
+Smart Home Tech
+Prime Locations
+Timeless Architecture
+World-Class Amenities
+Trusted Developers
+Luxury Residences
+Premium Farm Lands
+Exclusive Communities
+Smart Home Tech
+Prime Locations
+Timeless Architecture
+World-Class Amenities
+Trusted Developers
+
+Who We Are
+A Collaboration
+With Purpose.
+
+Fortune One emerged from a natural progression — the uniting of long-term vision and thoughtful design.
+
+What started as independent paths in the real estate space has grown into a single, clear mission: to craft homes that are durable, intelligently planned, and deeply connected to the way people live.
+
+A Union of Vision and Experience
+
+Born from aligned values and complementary strengths, Fortune One aims to shape homes that are enduring, well-planned, and intuitively connected to the needs of the people who live in them.
+
+Our Foundation
+The principles that guide everything we do
+
+I
+Vision
+
+Our Vision
+
+Our vision is to be a global leader in real estate, setting new benchmarks in design, quality, and customer care. We aspire to create iconic properties that blend modern living with sustainable practices, transforming skylines and enriching lives. By embracing innovation, personalization, and integrity, we aim to build communities where dreams take root and prosperity grows.
+
+II
+Values
+
+Our Values
+
+The principles that guide everything we do
+
+Integrity
+
++
+
+We uphold the highest ethical standards, ensuring honesty in every decision.
+
+Customer First
+
++
+
+Our clients' aspirations guide every step we take.
+
+Excellence
+
++
+
+We pursue perfection, delivering unmatched quality and attention to detail.
+
+Innovation
+
++
+
+We embrace creativity, technology, and forward-thinking solutions.
+
+Trust
+
++
+
+We nurture lasting relationships built on transparency, reliability, and respect.
+
+III
+Mission
+
+Our Mission
+
+Our mission is to redefine the real estate experience by offering not just properties, but thoughtfully designed spaces that reflect luxury, trust, and innovation. We are committed to providing expert guidance and end-to-end services, ensuring every client's journey — from discovery to ownership — is smooth and rewarding. With a foundation built on customer satisfaction, transparency, and excellence, we strive to craft landmark developments that create lasting value and inspire future generations.
+
+The Team
+Meet the Leadership
+
+Chairman & Managing Director
+Prashant Raj
+
+Prashant Raj leads with a vision rooted in integrity, innovation, and long-term value creation. With over two decades of entrepreneurial experience, he has been a driving force behind Fortune One's growth and diversification across real estate, industrial ventures, and sustainable initiatives.
+
+His leadership approach combines strategic thinking with a deep focus on execution excellence. Known for his clarity of vision and commitment to quality, he has built teams and partnerships that consistently deliver impactful results.
+
+Guided by a belief that progress must serve both people and purpose, Prashant continues to inspire a culture of innovation, collaboration, and responsibility within the organization.
+
+View Profile
+
+Managing Director
+Naveen Raj
+
+Naveen Raj leads with a strong focus on strategy, execution, and value creation in real estate development. With over a decade of entrepreneurial experience, he has been instrumental in building Fortune One into a trusted, performance-driven real estate brand known for integrity and partnership-led growth.
+
+His expertise lies in structuring successful Joint Ventures, Joint Development Agreements, and Development Management partnerships that create long-term value for landowners and investors. Naveen's clear approach to legal transparency, financial accountability, and project ownership ensures that every development upholds the highest standards of trust and delivery.
+
+He is deeply committed to transforming land into well-planned, sustainable communities that reflect Fortune One's vision — combining strong design, seamless execution, and responsible development.
+
+View Profile
+
+Director - Strategy & Development
+Diepu V Reddy
+
+Diepu V Reddy is a seasoned real estate professional with over 14 years of international experience. He possesses an entrepreneurial mindset, strong business acumen, and exceptional analytical skills, enabling him to manage large asset classes.
+
+In recognition of his achievements, he has received prestigious honors and awards, including the Smart Real Estate Project of the Year for Edge in 2018 and Township of the Year for Springs in 2019.
+
+Diepu has furthered his education at Cornell University and holds a degree in Marketing & Operations from Don Bosco University.
+
+View Profile
+
+Chief Business Officer
+Vinith Prasad
+
+Vinith Prasad plays a key role in driving Fortune One's growth through strategic investment, land acquisition, and deal structuring. With over seven years of experience in real estate development, he combines an entrepreneurial mindset with a sharp understanding of market dynamics and financial strategy.
+
+Vinith's expertise lies in identifying high-value opportunities, building investor confidence, and structuring partnerships that create long-term value for all stakeholders. His hands-on approach and commitment to transparent transactions have been central to Fortune One's continued success in competitive markets.
+
+Focused on innovation and sustainable expansion, he works closely with partners, investors, and landowners to translate vision into tangible results. His leadership reflects a balance of financial acumen, strategic foresight, and a deep commitment to responsible growth.
+
+View Profile
+
+Chief People Growth Officer
+Vandana Prashant
+
+Vandana Prashant oversees human resources, sales strategy, and organizational initiatives at Fortune One. With over a decade of experience in business operations and people management, she plays a pivotal role in driving the company's growth and nurturing a strong, purpose-driven culture.
+
+Her leadership philosophy centers on collaboration, innovation, and continuous learning. Vandana believes that empowering people and aligning them with a shared vision is the key to sustained success. She works closely with teams across functions to ensure that every project reflects Fortune One's values of trust, transparency, and excellence.
+
+Passionate about building high-performing teams and fostering long-term relationships, Vandana brings both strategic clarity and empathy to her role — balancing business growth with people-centric leadership.
+
+View Profile
+
+Executive Director & Business Devlopment & Expansion
+Kishan Ramachandrian
+
+Kishan Ramachandrian brings dynamic leadership to Fortune One, spearheading business development and strategic expansion initiatives. With a strong background in scaling operations, he plays a crucial role in identifying new market opportunities and driving the company's growth trajectory.
+
+His expertise in market analysis, partnership building, and execution strategy ensures that Fortune One continues to expand its footprint while maintaining the highest standards of quality and customer satisfaction.
+
+View Profile
+
+The Fortune One Standard
+Why Leaders Choose Fortune One
+
+01
+
+Investment Opportunities
+
+We are dedicated to helping you discover rewarding opportunities in real estate investment. Our team conducts in-depth research, analyzes market trends, and evaluates every project with precision to guide you toward informed and profitable investment decisions.
+
+02
+
+Client Satisfaction
+
+Building long-term relationships is at the heart of what we do. Your satisfaction is our top priority, and we strive to deliver personalized, high-quality service that exceeds expectations and earns your lasting trust.
+
+03
+
+Property Management
+
+Managing a property — whether residential, commercial, or mixed-use — can be complex. Our property management solutions simplify the process by handling tenant screening, rent collection, maintenance, and daily operations, giving you complete peace of mind and steady returns.
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\pages\blog.php
+--------------------------------------------------------
+
+Our
+ 
+Blog
+
+Insights, perspectives, and news from the forefront of real estate and development.
+
+Modern Tech
+
+The Evolution of Smart Homes
+
+How technology and automation are redefining luxury living and modern construction trends.
+
+Read Article →
+
+Green Architecture
+
+Sustainable Building Materials
+
+Discover the rise of eco-friendly construction materials and the future of green architecture.
+
+Read Article →
+
+Real Estate Tech
+
+Virtual Reality in Design
+
+How virtual reality and 3D modeling are reshaping architectural design and real estate planning.
+
+Read Article →
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\pages\career.php
+--------------------------------------------------------
+
+Careers
+ 
+At
+ 
+Fortune
+ 
+One
+
+We don't hire for roles. We recruit architects of tomorrow — exceptional minds who operate at the intersection of ambition, intellect, and character.
+
+Why Fortune One
+More Than a Career
+
+01
+
+Elite Peer Group
+
+Work alongside some of the world's most exceptional strategic minds. At Fortune One, your colleagues are your greatest competitive advantage.
+
+02
+
+Accelerated Growth
+
+Our proprietary development framework moves exceptional talent faster than any institution in the industry. Talent is rewarded with velocity.
+
+03
+
+Global Platform
+
+From London to Singapore, Dubai to São Paulo — your career at Fortune One is borderless, building multi-dimensional leadership.
+
+Current Openings
+Join Our Team
+
+Front Office Receptionist
+
+Bengaluru | On-site
+
+Experience: 1–3 Years
+Real Estate / Hospitality
+Timings: 9:30 AM – 6:30 PM (6 Days)
+
+Job Summary: Fortune One Buildco Pvt. Ltd. is looking for a smart, presentable, and customer-focused Front Office Receptionist to manage front desk operations and create a professional first impression for clients and visitors. The ideal candidate should possess strong communication skills, a pleasant personality, and the ability to handle reception, coordination, and basic administrative responsibilities efficiently.
+
+Key Responsibilities
+
+Welcome clients, visitors, and guests in a professional and courteous manner
+
+Handle incoming calls, inquiries, and direct them to the relevant departments
+
+Manage walk-in client coordination and assist the sales team when required
+
+Maintain visitor records and front office registers
+
+Schedule meetings and coordinate conference room bookings
+
+Handle courier, mail, and administrative support activities
+
+Required Skills & Qualifications
+
+Graduate in any discipline
+
+1–3 years of experience as a Front Office Executive / Receptionist
+
+Polite, confident, and customer-friendly with excellent communication skills
+
+Well-groomed and professional in appearance
+
+Basic knowledge of MS Office (Word, Excel, Outlook)
+
+Positive attitude with strong coordination and multitasking abilities
+
+Apply for this Role
+
+Join The Elite
+Apply Now
+
+We review every application personally. Leave your details and attach your resume below. If your profile fits our current or future needs, our talent team will reach out to you directly.
+
+Full Name
+
+Email Address
+
+Phone Number
+
+Applied for Post
+
+Qualification / Degrees
+
+Upload Resume (PDF/DOC)
+
+Submit Application
+
+How We Hire
+The Selection Process
+
+I
+
+Application
+
+Submit your profile. We review every application personally — no automated screening for qualified candidates.
+
+II
+
+Discovery Call
+
+A 45-minute conversation with a senior principal. Exploratory, not evaluative. We want to understand your story.
+
+III
+
+Case + Interview
+
+A rigorous two-stage process: a real-world strategic case presentation and a panel interview with partners.
+
+IV
+
+The Offer
+
+If we believe you belong here, we move decisively. No drawn-out deliberation. We know excellence when we see it.
+
+94%
+Retention Rate
+
+7yr
+Avg. Partner Track
+
+Top 2%
+Compensation
+
+Life at Fortune One
+A Culture of Excellence
+
+We do not believe in work-life balance in the conventional sense. We believe in work-life integration — building careers so meaningful, so intellectually alive, that the distinction becomes irrelevant.
+
+Our people operate at the edge of what is possible. They are challenged every day. They are supported completely. And they are rewarded without compromise.
+
+Radical Intellectual HonestyNon-negotiable
+
+Relentless Pursuit of ExcellenceDaily Standard
+
+Collaborative by DesignAlways
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\pages\contact.php
+--------------------------------------------------------
+
+Get
+ 
+In
+ 
+Touch
+
+Reach out to discover how Fortune One can partner with you to build your vision and create lasting value.
+
+Our Offices
+Connect With Us
+
+Whether you're looking for investment opportunities, career paths, or general inquiries, our doors are always open.
+
+Headquarters
+
+1st.floor, kfc building Billor’s Pladium,
+19/3, Cunningham Rd,
+Bengaluru, Karnataka 560001
+
+Phone
+
++91 79960 00533
+
+Email Us
+
+Land & Collaboration
+cbo@fortuneone.co
+
+Sales & Support
+reach@fortuneone.co
+
+Career
+hr@fortuneone.co
+
+Fill the details
+
+Full Name
+
+Phone Number
+
+Email Address
+
+Subject
+
+Message
+
+Send Message
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\pages\home.php
+--------------------------------------------------------
+
+Luxury Residences
+Premium Farm Lands
+Exclusive Communities
+Smart Home Tech
+Prime Locations
+Timeless Architecture
+World-Class Amenities
+Trusted Developers
+Luxury Residences
+Premium Farm Lands
+Exclusive Communities
+Smart Home Tech
+Prime Locations
+Timeless Architecture
+World-Class Amenities
+Trusted Developers
+
+Our Purpose
+We care about how you 
+Live.
+
+At Fortune One, we believe every home tells a story — of people, purpose, and progress. Guided by decades of experience and a forward-thinking vision, we create spaces where design meets integrity and innovation shapes everyday living.
+
+Each development reflects our commitment to quality, sustainability, and human connection — transforming land into living experiences that stand the test of time. Because we don't just construct buildings; we craft environments that help people live better, grow stronger, and feel truly at home.
+
+We don't just build homes.
+We build how people feel at home.
+
+15+
+
+Years of Mastery
+
+500+
+
+Happy Families
+
+5+
+
+Ongoing Landmarks
+
+Building with Integrity
+Growing with Purpose
+
+Fortune One is a Bengaluru-based real estate development company built on the principles of trust, transparency, and thoughtful design. We create spaces that seamlessly blend functionality with aesthetics, delivering enduring value to landowners, investors, and communities alike.
+
+Driven by a team with deep industry expertise, Fortune One specializes in premium plotted developments, luxury farmlands, and commercial projects across key growth corridors. Every project reflects our commitment to quality execution, legal clarity, and timely delivery.
+
+Our approach is simple — we build relationships before we build spaces. Through collaboration, innovation, and a long-term vision, Fortune One continues to shape developments that inspire confidence and contribute meaningfully to urban growth.
+
+Discover More →
+
+Visual Showcase
+Discover Our Ongoing Projects
+
+Take a virtual tour of our premium developments and see the quality craftsmanship firsthand.
+
+❮
+
+❯
+
+Luxury Redefined
+Distinctive Spaces,
+Elevated Living
+
+At Fortune One Group, we create more than just properties — we craft distinctive spaces that embody luxury, comfort, and purpose. Every project is a testament to our commitment to design excellence, where thoughtful details and timeless sophistication come together to shape landmarks of lifestyle.
+
+From serene residences that feel like personal retreats to dynamic commercial spaces that inspire success and hospitality destinations that captivate every guest, our creations reflect a legacy of innovation and refinement. With Fortune One, every space is beautifully designed to elevate not just how you live, but how you experience life.
+
+Discover More →
+
+Why Fortune One
+The Standard of Distinction
+
+01
+
+Uncompromising Quality
+
+Every project is crafted with a relentless pursuit of perfection, using premium materials and world-class construction standards. We accept nothing less than excellence.
+
+02
+
+Prime Locations
+
+We carefully select the most desirable and strategically connected locations, ensuring high appreciation value and an elevated lifestyle for our residents.
+
+03
+
+Innovative Design
+
+Our architectural philosophy blends timeless aesthetics with modern functionality, creating expansive spaces that inspire and enhance the way you live.
+
+04
+
+Customer-Centric Focus
+
+Your satisfaction is our foundation. We prioritize transparency, timely delivery, and dedicated support to make your property acquisition journey entirely seamless.
+
+05
+
+Sustainable Development
+
+We purposefully integrate eco-friendly practices and smart technologies into our projects, building sustainable communities for a better, greener future.
+
+06
+
+Trusted Legacy
+
+With a proven track record and a portfolio of landmark developments, we have built an enduring reputation founded on trust, absolute reliability, and enduring value.
+
+Selected Work
+Landmark Achievements
+
+❮
+
+Prelaunch · Hesaragatta
+Fortune One EshaVana
+
+Premium Farm Lands (6000-12000 sft) featuring OOP Grassland, Club House, and Gated Community. Starts at 93L.
+
+Fortune One EshaVana offers premium farm lands designed for those seeking a serene and luxurious lifestyle.
+
+At Fortune One EshaVana, the Havana Clubhouse is designed as a serene retreat where nature and community come together. With sloped roofs and open spaces, it seamlessly blends with the lush surroundings, creating shaded areas where families can relax and children can play under tree canopies-reviving the charm of nature-filled childhoods. Beyond relaxation, Havana offers thoughtfully designed recreation spaces, including yoga decks, basketball courts, and cricket nets, all set within greenery. Whether unwinding in peaceful corners or engaging in outdoor activities, Havana is more than a clubhouse-it's a sanctuary for wellness and togetherness.
+
+Location: Hesaragatta, Bengaluru Rural
+Status: Pre-Launch
+
+View More
+
+Selling Fast · Bengaluru Rural
+Fortune One Vistaa
+
+Premium Villa Plots (1200-1500 sft) in a fully equipped Gated Community. Starts at 33.5L.
+
+Nestled near the peaceful Isha Foundation in Chikkaballapur, North Bengaluru, Fortune One Vistaa is an exclusive plotted development featuring just 55 premium villa plots ranging from 1200 sqft. to 1500 sqft. Set against the stunning backdrop of Nandi Hills, this project is thoughtfully designed for those who desire a harmonious blend of nature, comfort, and modern living. With thematic landscaped greenery that inspires a sense of calm and a fully equipped clubhouse for recreation and relaxation, Fortune One Vistaa offers a rare opportunity to own a piece of tranquility in an upscale setting. Limited to only 55 plots, it ensures exclusivity while promising a lifestyle of elegance and serenity.
+
+RERA No: PRM/KA/RERA/1254/460/PR/280325/007638
+Location: Bengaluru Rural
+Status: Selling Fast
+
+View More
+
+Sold Out · Devanahalli
+Skylark
+
+Special Agri Plots featuring Smart Home tech, exclusive Gym & Pool, and dedicated Parking.
+
+Skylark offers special agricultural plots perfectly blended with smart home technology, providing a unique lifestyle proposition. Experience the best of both worlds with modern conveniences in a serene environment.
+
+Location: Devanahalli, Bangalore
+Status: Sold Out
+
+View More
+
+Ongoing · Bengaluru
+Pyramid
+
+Premium residential developments designed for modern, luxurious, and spacious living.
+
+Pyramid represents the pinnacle of modern residential development. These premium living spaces are designed for those who seek luxury, space, and unmatched quality in the heart of the city.
+
+Location: Bengaluru
+Status: Ongoing
+
+View More
+
+Prelaunch · Hesaragatta
+Fortune One EshaVana
+
+Premium Farm Lands (6000-12000 sft) featuring OOP Grassland, Club House, and Gated Community. Starts at 93L.
+
+Fortune One EshaVana offers premium farm lands designed for those seeking a serene and luxurious lifestyle.
+
+At Fortune One EshaVana, the Havana Clubhouse is designed as a serene retreat where nature and community come together. With sloped roofs and open spaces, it seamlessly blends with the lush surroundings, creating shaded areas where families can relax and children can play under tree canopies-reviving the charm of nature-filled childhoods. Beyond relaxation, Havana offers thoughtfully designed recreation spaces, including yoga decks, basketball courts, and cricket nets, all set within greenery. Whether unwinding in peaceful corners or engaging in outdoor activities, Havana is more than a clubhouse-it's a sanctuary for wellness and togetherness.
+
+Location: Hesaragatta, Bengaluru Rural
+Status: Pre-Launch
+
+View More
+
+Selling Fast · Bengaluru Rural
+Fortune One Vistaa
+
+Premium Villa Plots (1200-1500 sft) in a fully equipped Gated Community. Starts at 33.5L.
+
+Nestled near the peaceful Isha Foundation in Chikkaballapur, North Bengaluru, Fortune One Vistaa is an exclusive plotted development featuring just 55 premium villa plots ranging from 1200 sqft. to 1500 sqft. Set against the stunning backdrop of Nandi Hills, this project is thoughtfully designed for those who desire a harmonious blend of nature, comfort, and modern living. With thematic landscaped greenery that inspires a sense of calm and a fully equipped clubhouse for recreation and relaxation, Fortune One Vistaa offers a rare opportunity to own a piece of tranquility in an upscale setting. Limited to only 55 plots, it ensures exclusivity while promising a lifestyle of elegance and serenity.
+
+RERA No: PRM/KA/RERA/1254/460/PR/280325/007638
+Location: Bengaluru Rural
+Status: Selling Fast
+
+View More
+
+Sold Out · Devanahalli
+Skylark
+
+Special Agri Plots featuring Smart Home tech, exclusive Gym & Pool, and dedicated Parking.
+
+Skylark offers special agricultural plots perfectly blended with smart home technology, providing a unique lifestyle proposition. Experience the best of both worlds with modern conveniences in a serene environment.
+
+Location: Devanahalli, Bangalore
+Status: Sold Out
+
+View More
+
+Ongoing · Bengaluru
+Pyramid
+
+Premium residential developments designed for modern, luxurious, and spacious living.
+
+Pyramid represents the pinnacle of modern residential development. These premium living spaces are designed for those who seek luxury, space, and unmatched quality in the heart of the city.
+
+Location: Bengaluru
+Status: Ongoing
+
+View More
+
+❯
+
+Client Voices
+Words from Leaders
+
+❮
+
+"Fortune One operates at a level of strategic clarity that I have rarely encountered. Their counsel on our most consequential decisions proved decisive in ways we are still discovering."
+
+JL
+
+James Lockwood
+
+Chairman, Meridian Holdings plc
+
+★★★★★
+
+"In twenty years of working with advisors globally, none have matched the combination of intellectual rigor, operational mastery, and genuine partnership that Fortune One delivers."
+
+SR
+
+Sophia Reinholt
+
+CEO, Vantage Global Group
+
+★★★★★
+
+"The transformation they orchestrated was not merely strategic — it was architectural. They redesigned the very foundations upon which our organization now stands."
+
+AK
+
+Alexei Kovalenko
+
+Managing Director, Aurora Capital
+
+★★★★★
+
+"Fortune One's network access and geopolitical insight opened doors that simply did not exist before. They are not consultants — they are architects of possibility."
+
+NM
+
+Nadia Marchetti
+
+President, Nexus Infrastructure Fund
+
+★★★★★
+
+❯
+
+Latest Insights
+Evolution of Construction
+
+Modern Tech
+
+The Evolution of Smart Homes
+
+How technology and automation are redefining luxury living and modern construction trends.
+
+Read Article →
+
+Green Architecture
+
+Sustainable Building Materials
+
+Discover the rise of eco-friendly construction materials and the future of green architecture.
+
+Read Article →
+
+Real Estate Tech
+
+Virtual Reality in Design
+
+How virtual reality and 3D modeling are reshaping architectural design and real estate planning.
+
+Read Article →
+
+View All Articles →
+
+Begin the Conversation
+Let's Create Something Extraordinary
+
+Exceptional outcomes begin with a single conversation. We engage selectively, ensuring every mandate receives the depth of attention it deserves. Reach out to begin.
+
+↗
+
+Headquarters
+1st.floor, kfc building Billor’s Pladium,
+19/3, Cunningham Rd, Bengaluru,
+Karnataka 560001
+
+✆
+
+Phone
++91 79960 00533
+
+@
+
+Email Enquiries
+
+Land & Collaboration: cbo@fortuneone.co
+
+Sales & Support: reach@fortuneone.co
+
+Career: hr@fortuneone.co
+
+First Name
+
+Last Name
+
+Organisation
+
+Email Address
+
+Nature of Enquiry
+
+Select engagement type
+Schedule a Site Visit
+Property Pricing & Details
+Investment Opportunities
+Project Brochures
+Speak to an Agent
+
+Message
+
+Submit Enquiry
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\pages\Journey.php
+--------------------------------------------------------
+
+2007
+
+The Beginning
+
+Launched Namma Mane Apartments on Old Airport Road, Bangalore - marking the beginning of our journey in creating quality living spaces.
+
+2007-2020
+
+Growth Phase
+
+Successfully developed multiple projects under various brands, building a strong foundation of trust and excellence across Bangalore.
+
+2020
+
+Unification
+
+All visions came together under one unified identity — Fortune One, representing our commitment to excellence and innovation.
+
+Today
+
+Moving Forward
+
+With three decades of experience, we continue redefining urban living with design, transparency, and timely delivery.
+
+FUTURE
+
+Looking Ahead
+
+Expanding our vision to create sustainable, innovative communities that set new standards in real estate development.
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\pages\nrisupport.php
+--------------------------------------------------------
+
+NRI
+ 
+Support
+
+Specialized services for Non-Resident Indians looking to invest in premium real estate back home. We make your property investment journey seamless from anywhere in the world.
+
+Book an Appointment
+
+Comprehensive support tailored for Non-Resident Indians
+NRI Services
+
+01
+
+Global Reach
+
+Dedicated support for NRIs across the world with local expertise.
+
+02
+
+Easy Financing
+
+Specialized NRI loan assistance and flexible payment options.
+
+03
+
+Legal Assistance
+
+Complete documentation support and legal compliance guidance.
+
+04
+
+24/7 Support
+
+Round-the-clock customer support across multiple time zones.
+
+Your Investment Journey
+How It Works
+
+01
+
+Initial Consultation
+
+Virtual meeting to understand your requirements and budget
+
+02
+
+Property Selection
+
+Curated property options based on your preferences
+
+03
+
+Virtual Tours
+
+High-quality virtual tours and video calls with our team
+
+04
+
+Documentation
+
+Complete paperwork assistance and legal verification
+
+05
+
+Property Handover
+
+Seamless property handover with quality assurance
+
+Connect With Us
+Get in Touch
+
+Distance shouldn't be a barrier to securing your dream property or investment. Fill out the form, and our specialized NRI desk will reach out to you within 24 hours.
+
+Full Name
+
+Email Address
+
+Phone Number (with Country Code)
+
+Current Country of Residence
+
+How can we help you?
+
+Submit Enquiry
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\pages\portfolio.php
+--------------------------------------------------------
+
+Portfolio
+
+A showcase of landmark achievements and distinctive spaces.
+
+Welcome to Fortune One
+— where living meets inspiration.
+
+Each home is built to elevate your lifestyle, offering the perfect balance of luxury, serenity, and connection.
+
+Your journey to better living starts here.
+
+Prelaunch
+
+EshaVana
+
+📍 Hesaragatta, Bengaluru Rural
+
+93L  |  Premium Farm Lands
+
+6000-12000 sft
+
+OOP.Grassland
+
+Club House
+
+Gated Community
+
+Gallery Preview
+
+Fortune One EshaVana offers premium farm lands designed for those seeking a serene and luxurious lifestyle.
+
+At Fortune One EshaVana, the Havana Clubhouse is designed as a serene retreat where nature and community come together. With sloped roofs and open spaces, it seamlessly blends with the lush surroundings, creating shaded areas where families can relax and children can play under tree canopies-reviving the charm of nature-filled childhoods. Beyond relaxation, Havana offers thoughtfully designed recreation spaces, including yoga decks, basketball courts, and cricket nets, all set within greenery. Whether unwinding in peaceful corners or engaging in outdoor activities, Havana is more than a clubhouse-it's a sanctuary for wellness and togetherness.
+
+Location: Hesaragatta, Bengaluru Rural
+Status: Pre-Launch
+
+View More Info
+Book Appointment
+
+Selling Fast
+
+Vista
+
+📍 Bengaluru Rural
+
+33.5L  |  Premium Villa Plots
+
+1200-1500 sft
+
+Gated Community
+
+Gallery Preview
+
+Nestled near the peaceful Isha Foundation in Chikkaballapur, North Bengaluru, Fortune One Vistaa is an exclusive plotted development featuring just 55 premium villa plots ranging from 1200 sqft. to 1500 sqft. Set against the stunning backdrop of Nandi Hills, this project is thoughtfully designed for those who desire a harmonious blend of nature, comfort, and modern living. With thematic landscaped greenery that inspires a sense of calm and a fully equipped clubhouse for recreation and relaxation, Fortune One Vistaa offers a rare opportunity to own a piece of tranquility in an upscale setting. Limited to only 55 plots, it ensures exclusivity while promising a lifestyle of elegance and serenity.
+
+RERA No: PRM/KA/RERA/1254/460/PR/280325/007638
+Location: Bengaluru Rural
+Status: Selling Fast
+
+View More Info
+Book Appointment
+
+Sold Out
+
+Skylark
+
+📍 Devanahalli, Bangalore
+
+Special Agri Plots
+
+Smart Home
+
+Gym & Pool
+
+Parking
+
+Gallery Preview
+
+Skylark offers special agricultural plots perfectly blended with smart home technology, providing a unique lifestyle proposition. Experience the best of both worlds with modern conveniences in a serene environment.
+
+Location: Devanahalli, Bangalore
+Status: Sold Out
+
+View More Info
+
+Premium Living
+
+Pyramid
+
+📍 Premium Project
+
+Exclusive Community Residences
+
+Modern Architecture
+
+Premium Amenities
+
+Gallery Preview
+
+Pyramid represents the pinnacle of modern residential development. These premium living spaces are designed for those who seek luxury, space, and unmatched quality in the heart of the city.
+
+Location: Bengaluru
+Status: Ongoing
+
+View More Info
+Inquire Now
+
+Master Plans
+
+Explore the detailed layouts and designs of our premium residential projects
+
+Vista Master Plan
+
+Detailed layout showcasing premium villa plots with modern amenities and green spaces.
+
+View Full Size
+
+EshaVana Master Plan
+
+Comprehensive layout featuring premium farm lands with amenities.
+
+View Full Size
+
+×
+❮
+
+❯
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\partials\ai_chat_widget.php
+--------------------------------------------------------
+
+AI Consultant
+
+Fortune One Group
+
+Welcome to Fortune One! I'm your property consultant, here to help you navigate India's real estate market. Whether you're buying your first home, looking for an investment, or exploring options as an NRI — I'm here to guide you. What brings you here today?
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\partials\booking_modal.php
+--------------------------------------------------------
+
+Powered by Fortune One Bookings
+×
+
+Fortune One
+
+Fortune One Meeting
+
+30 min
+
+Google meet
+
+Select Date
+
+←
+
+→
+
+SU
+MO
+TU
+
+WE
+TH
+FR
+SA
+
+Asia/Kolkata
+
+←
+
+Select slot
+
+This time slot is already booked. Please choose a different slot.
+
+←
+
+Enter Details
+
+Full Name *
+
+Email Address *
+
+Phone Number
+
+Please share anything that will help prepare for our meeting.
+
+Schedule Event
+
+You are scheduled
+
+A calendar invitation has been sent to your email address with the Google Meet link.
+
+Done
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\partials\hero.php
+--------------------------------------------------------
+
+01
+
+Vision
+
+Where vision meets reality.
+Elevating your everyday.
+
+Fortune One Group
+
+02
+
+Legacy
+
+Building beyond structures.
+Crafting timeless legacies.
+
+Fortune One Group
+
+03
+
+Sanctuary
+
+Invest in your sanctuary.
+The foundation of a good life.
+
+Fortune One Group
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\partials\portfolio_modal.php
+--------------------------------------------------------
+
+×
+
+View Project 
+Get an Appointment
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\partials\process.php
+--------------------------------------------------------
+
+Process
+
+Step 01 Initial Consultation
+
+Virtual meeting to understand your requirements and budget
+
+↓
+
+Step 02 Property Selection
+
+Curated property options based on your preferences
+
+Step 03 Virtual Tours
+
+High-quality virtual tours and video calls with our team
+
+Step 04 Documentation
+
+Complete paperwork assistance and legal verification
+
+Step 05 Property Handover
+
+Seamless property handover with quality assurance
+
+Book an Appointment
+
+--------------------------------------------------------
+SECTION: C:\xampp\htdocs\fortuneone/app/Views\welcome_message.php
+--------------------------------------------------------
+
+Welcome to CodeIgniter 4!
+
+☰
+
+Home
+
+Docs
+
+Community
+
+Contribute
+
+Welcome to CodeIgniter 
+
+The small framework with powerful features
+
+About this page
+
+The page you are looking at is being generated dynamically by CodeIgniter.
+
+If you would like to edit this page you will find it located at:
+
+app/Views/welcome_message.php
+
+The corresponding controller for this page can be found at:
+
+app/Controllers/Home.php
+
+Go further
+
+Learn
+
+The User Guide contains an introduction, tutorial, a number of "how to"
+guides, and then reference documentation for the components that make up
+the framework. Check the User Guide !
+
+Discuss
+
+CodeIgniter is a community-developed open source project, with several
+venues for the community members to gather and exchange ideas. View all
+the threads on CodeIgniter's forum, or chat on Slack !
+
+Contribute
+
+CodeIgniter is a community driven project and accepts contributions
+of code and documentation from the community. Why not
+
+join us ?
+
+Page rendered in {elapsed_time} seconds using {memory_usage} MB of memory.
+
+Environment: 
+
+© CodeIgniter Foundation. CodeIgniter is open source project released under the MIT
+open source licence.
+
+
+--------------------------------------------------------
+SECTION: DETAILED PROJECT BROCHURES (OFFICIAL INTEL)
+--------------------------------------------------------
+
+### 1. SUMMARY AND STRUCTURED DATA FROM BROCHURES
+
+A. FORTUNE ONE ESSHA VANA (Luxury Farm Plots in Hesaraghatta)
+- Project Name: Fortune One Essha Vana (also EshaVana / Esha Vana)
+- Location Address: Sy No. 285/300, Kodihalli Village, Junnasandra, Hesaraghatta, Bengaluru, Karnataka 560088.
+- Developer Entity: Fortune One Buildco Pvt Ltd.
+- Project Scale: Spread across 4 acres in the serene landscapes of Hesaraghatta.
+- Total Exclusivity: Offers just 18 premium farm plots (extremely limited and exclusive).
+- Starting Plot Size: Starting from 6,000 sq. ft. up to 15,000+ sq. ft.
+- Natural Surroundings: 
+  * Located opposite the 356-acre Hesaraghatta Grasslands (one of Karnataka's last natural grasslands, home to migratory birds and rare species).
+  * Near the 1,000-acre Hesaraghatta Forest.
+  * Near the 1,356-acre Hesaraghatta Lakebed.
+  * Situated within the 5,010-acre Greater Hesaraghatta Conservation Reserve.
+- Master Plan Plot Dimensions & Areas:
+  * Plot 1: 8,359 sq ft / 8,728 sq ft
+  * Plot 2: 6,251 sq ft / 6,293 sq ft
+  * Plot 3: 6,269 sq ft / 9,400 sq ft
+  * Plot 4: 6,290 sq ft / 6,253 sq ft
+  * Plot 5: 6,308 sq ft / 6,061 sq ft
+  * Plot 6: 6,330 sq ft / 6,130 sq ft
+  * Plot 7: 6,355 sq ft / 6,069 sq ft
+  * Plot 8: 6,379 sq ft / 6,186 sq ft
+  * Plot 9: 6,406 sq ft / 7,970 sq ft
+  * Plot 10: 6,439 sq ft / 6,085 sq ft
+  * Plot 11: 8,218 sq ft / 6,060 sq ft
+  * Plot 12: 15,180 sq ft / 6,217 sq ft
+  * Plot 13: 15,002 sq ft / 6,057 sq ft
+  * Plot 14: 15,021 sq ft / 6,108 sq ft
+  * Plot 15: 6,059 sq ft
+  * Plot 16: 6,159 sq ft
+  * Plot 17: 6,610 sq ft
+  * Plot 18: 6,066 sq ft
+  * Club House Area: 16,260 sq ft / 15,220 sq ft
+  * Total Plot Area: 1,18,812 sq ft / 1,18,211 sq ft
+  * Total Area: 1,35,072 sq ft / 1,33,431 sq ft
+- Amenities at Havana Clubhouse (The Heart of Community Living):
+  * Designed as a serene retreat with sloped roofs and open spaces.
+  * Swimming Pool, Multipurpose Lawn, Kid's Play Area, Barbecue Area, Gazebo, Indoor Games Area, Vegetable Garden, Tree with Seating, Yoga Decks, Basketball Courts, Cricket Nets, Green open spaces and tree canopies.
+- Proximity & Connectivity details:
+  * 10 km from Namma Metro (Nagasandra Metro Station is nearby).
+  * 15 km from STRR (Satellite Town Ring Road).
+  * 20 km from Bren Raceway (world-class FIA Grade 2 racetrack).
+  * 38 km (approx. 50 minutes) from Kempegowda International Airport.
+  * Easy access to Tumkur Road, NH 75, and NICE Road.
+  * Near major tech parks, textile hubs, and the Aerospace & Defense SEZ.
+- Contact info:
+  * Website: www.fortuneone.co
+  * Support Phone: +91 7996000533
+
+B. FORTUNE ONE VISTAA (Premium Plotted Villa Development in Chikkaballapur)
+- Project Name: Fortune One Vistaa (also referred to as Vista or Vistaa)
+- Location Address: Sy No: 75/1, 75/2, 76/2, Thowdanahalli Village, Nandi Hobli, Chikkaballapura Taluk 562103.
+- Developer Entity: Fortune One Buildco Pvt Ltd.
+- Corporate Office: 1st floor, KFC building Billor’s Pladium, 19/3, Cunningham Rd, Bengaluru, Karnataka 560052.
+- Approvals & Certification: CUDA Approved and RERA Applied (RERA Number: PRM/KA/RERA/1254/460/PR/280325/007638).
+- Exclusivity: Limited to only 55 premium villa plots.
+- Plot Sizes: Ranging from 1,200 sq. ft. to 1,500 sq. ft.
+- Backdrop & Identity: Nestled near the peaceful Adiyogi Isha Foundation in Chikkaballapur, North Bengaluru, with Nandi Hills as a backdrop.
+- Infrastructure Details:
+  * Roads: Wide concrete finish 9-meter internal roads, pedestrian pathways, landscaped avenue plantation, signages, and numbering. 4-meter-wide entry to each plot. ~5.75-meter-wide concrete driveway.
+  * Electrical: 100% DG backup for common service areas, underground conduits for fiber cables, LED light fixtures, underground power lines.
+  * Plumbing: Underground sanitary line network from STP to plot entry, underground water supply lines till plot entry, drip irrigation network for common areas.
+  * Safety: Security cabin with boom barriers, peripheral boundary with entry/exit signages, CCTV.
+  * Services: Overhead water tank for domestic water supply till plot entry.
+  * Green Features: Rainwater harvesting recharge pit, energy efficient lighting, clubhouse designed with ample natural lighting/ventilation, common garden areas.
+- Amenities at The Vista Atrium Clubhouse (5,500 sq. ft.):
+  * Gym, Chess, Banquet Hall, Table Tennis Room, Billiards/Snooker, Kids' Playroom, Party Terrace, Co-working Space, Business Centre, Library, 24/7 Wifi, First Aid Room, Dance Studio, Café/Lounge, Swimming Pool, Kid's Pool, Jogging/Cycling Track, Garden/Park, Public Plaza, Reading Nook, Cricket Practice Nets, Yoga Lawn, Outdoor Gym, EV Charging Station, Barbecue Area, Pet Zone, Club House Parking.
+- Proximity & Connectivity (Travel Times):
+  * NH-44 National Highway (Hyderabad Highway): 3 minutes
+  * AIMS (Acharya Institute): 5 minutes
+  * Nagarjuna College of Engineering & Technology (Nagarjuna Engineering College): 10 minutes
+  * Chikkaballapur Railway Station: 10 minutes
+  * Adiyogi Isha Foundation: 20 minutes
+  * Panoramic views of Nandi Hills: 20 minutes
+  * Kempegowda International Airport: 30 minutes
+- Contact info:
+  * Website: fortuneonevistaa.in (or main site fortuneone.co)
+  * Email: enquiry@fortuneonevistaa.in
+  * Support Phone: +91 90501 85997
+
+### 2. RAW TEXT FROM BROCHURES (AS PROVIDED BY USER)
+
+Fortune One
+Essha Vana
+Luxury Farm Plots
+PREMIUM FARM PLOTS HESARAGHATTA, BANGALORE
+T & C APPLY*
+MASTER PLAN
+Essha Vana
+Luxury Farm Plots
+Essha Vana
+Premium Farm Plots
+Essha Vana” offers luxury farm 
+plots nestled in nature’s embrace, 
+surrounded by lush forests, serene 
+grasslands, and a tranquil lake. It’s 
+a 
+sanctuary of fresh air and 
+sustainable elegance, right in the 
+heart of oxygen.
+PLOT No.
+PLOT 1
+PLOT 2
+PLOT 3
+PLOT 4
+PLOT 5
+PLOT 6
+PLOT 7
+PLOT 8
+PLOT 9
+PLOT 10
+PLOT 11
+PLOT No.
+PLOT 12
+PLOT 13
+PLOT 1
+PLOT 2
+PLOT 3
+AREA (sqft)
+8359 sqft
+6251 sqft
+6269 sqft
+6290 sqft
+6308 sqft
+6330 sqft
+6355 sqft
+6379 sqft
+6406 sqft
+AREA (sqft)
+6439 sqft
+8218 sqft
+1,18,812 sqft
+16,260 sqft
+8728 sqft
+9400 sqft
+6060 sqft
+15,180 sqft
+15,002 sqft
+PLOT 14
+PLOT 4
+PLOT 5
+PLOT 6
+PLOT 7
+6069 sqft
+6059 sqft
+15,021 sqft
+TOTAL PLOT AREA
+CLUB HOUSE
+6061 sqft
+6057 sqft
+PLOT 8
+PLOT 9
+TOTAL AREA
+PLOT 10
+PLOT 11
+PLOT 12
+PLOT 13
+PLOT 14
+PLOT 15
+PLOT 16
+PLOT 17
+PLOT 18
+TOTAL PLOT AREA
+CLUB HOUSE
+TOTAL AREA
+7970 sqft
+6610 sqft
+6293 sqft
+6253 sqft
+6217 sqft
+1,35,072 sqft
+6186 sqft
+6159 sqft
+6130 sqft
+6108 sqft
+6085 sqft
+6066 sqft
+1,18,211 sqft
+15220 sqft
+1,33,431 sqft
+MASTER PLAN
+HAVANA
+The Heart of Community Living
+At Fortune One EsshaVana, the Havana Clubhouse is 
+designed as a serene retreat where nature and 
+community come together. With sloped roofs and 
+open spaces, it seamlessly blends with the lush 
+surroundings, creating shaded areas where families 
+can relax and children can play under tree 
+canopies-reviving the charm of nature-filled 
+childhoods.
+Beyond relaxation, Havana offers thoughtfully 
+designed recreation spaces, including yoga decks, 
+basketball courts, and cricket nets, allset within 
+greenery. Whether unwinding in peaceful corners or 
+engaging in outdoor activities, Havana is more than a 
+clubhouse-it’s a sanctuary for wellness and 
+togetherness.
+PLAY MORE
+Discover a lively community where play takes center stage, fostering connections and 
+enhancing well-being with every shared experience. Refresh, connect, and celebrate each day 
+as a joyful journey in this vibrant sanctuary.
+Swimming Pool
+Multipurpose Lawn
+Kid’s Play Area
+Vegetable Garden
+Swimming Pool
+Barbecue Area
+Gazebo
+Indoor Games Area
+Tree with Seating
+Multipurpose Lawn
+Indoor Games
+Tree with Seating
+Vegetable Garden 
+Kid’s Play Area
+Barbecue Area
+Gazebo
+An Exciting Sanctuary
+in North Bangalore
+North Bengaluru is rapidly emerging as the city’s 
+most sought-after destination, 
+offering 
+seamlessconnectivity to Kempegowda International 
+Airport and major IT hubs. With a perfect mix of 
+modern infrastructure, excellent lifestyle amenities, 
+and a peaceful environment, it’s an ideal investment 
+for professionals and families seeking a 
+well-balanced, future-ready lifestyle.
+Why Invest in North Bangalore?
+An attractive investment destination.
+Prime Location with Excellent Connectivity**: 
+15 km from STRR, 10 km from Namma Metro, 
+and easy access to major highways and metro 
+stations.
+Close to Kempegowda International Airport**: 
+Only 38 km (approx. 50 minutes) for quick and 
+convenient travel.
+Thriving Business & Industrial Hubs**: Major 
+tech parks, textile hubs, and the Aerospace & 
+Defense SEZ ensure high growth potential.  
+Eco-Friendly Living**: Surrounded by Hesaraghatta 
+Grasslands and Lakebed, offering stunning views and 
+enhancing air quality.
+Bren Raceway (20 km)**: A world-class FIA Grade 2 
+racetrack, creating jobs and boosting the local economy. 
+Future Unfolds Here
+Hesaraghatta Grassland
+Just 30 km from Bengaluru, Hesaraghatta 
+Grassland is one of Karnataka’s last natural 
+grasslands. Home to migratory birds and rare 
+species, it serves as a vital green lung and holds 
+great potential for eco-tourism and sustainable 
+development.
+Hesaraghatta Lake
+Just a short drive from the city, Hesaraghatta Lake 
+View offers a serene escape with shimmering 
+waters, lush greenery, and open skies—an ideal 
+setting for a peaceful, nature-connected lifestyle.
+Metro & Suburban Rail Connectivity
+Hesaraghatta enjoys improved connectivity 
+through Bengaluru’s expanding Namma Metro, 
+with Nagasandra Station nearby ensuring easy, 
+traffic-free access to city hubs. Future metro plans 
+will further enhance its appeal for living, education, 
+and investment.
+Expressway & Highway Boost
+Located near Tumkur Road, Hesaraghatta offers 
+excellent connectivity to Bengaluru’s core areas, IT 
+hubs, and the airport. With access to NH 75, NICE 
+Road, and just minutes from STRR and Namma 
+Metro, it’s emerging as a prime spot for smart 
+investment and sustainable living.
+15 min
+Essha Vana
+Sy No. 285/300,Kodihalli Village, 
+Junnasandra, Hesaraghatta, 
+Bengaluru, Karnataka 560088
+Luxury Farm Plots in Hesarghatta
+Spread across 4 acres in the serene landscapes of Hesarghatta, Fortune One Essha Vana offers just 18 premium farm plots, 
+starting from 6,000 sq. ft. Located opposite the 356-acre Hesarghatta Grasslands, with the 1,000-acre Hesarghatta Forest and 
+the 1,356-acre Hesarghatta Lakebed nearby, this exclusive development is perfect for those seeking a peaceful retreat amidst 
+nature’s finest surroundings.
+Designed for privacy and tranquility, Essha Vana seamlessly blends luxury and nature. Whether you’re looking for a weekend 
+getaway, a farmhouse, or a long-term investment, this is your chance to own a piece of unspoiled beauty within the 5,010-acre 
+Greater Hesarghatta Conservation Reserve. Limited plots available secure yours today!
+T & C APPLY*
+Corporate Office : 
+Fortune one buildco pvt Ltd 
+Cunningham Rd, Bengaluru, Karnataka 560001
+Website: www.fortuneone.co
+Contact: +91 7996000533, 
+Disclaimer: The Company makes no guarantees or representations regarding the accuracy of the information in this document, which is intended solely for 
+general information purposes. It also does not assure the correctness of the information within this document. All interested parties are advised to independently 
+verify the information, including designs, plans, specifications, facilities, features, payment schedules, terms of sales, etc., with the Company before making any 
+decision to purchase in any of the projects. The brochure user acknowledges not relying solely on this information for any booking/purchase in the Company's 
+projects. The provided information, visuals, renders, and creative depictions are merely artistic impressions, indicative in nature, and meant for general 
+information only. Actual design, color, finish, construction, landscape might change subject to design alterations, layout modifications, material changes, site 
+conditions, etc. Furnishings, paintings, or any personalized items not explicitly included in the contract and depicted in images are for illustrative purposes only 
+and do not constitute part of the offer. Additionally, the renders/visuals of areas beyond the project site are artistic and may not represent actual views. While 
+the Company has taken reasonable care in providing this information, it, along with its employees, managers, or representatives, shall not be liable for any loss, 
+damage, special or consequential, arising from reliance on this information without independent verification with the Company. The brochure content is 
+provided "as is" and "as available," with all faults, and no information herein creates a warranty or extends the scope of any warranty beyond what is permissible 
+under applicable laws.
+T & C APPLY*
+
+
+istaa
+Fortune One
+Index
+About Us
+Introduction
+Amenities 
+Sustainability
+Infrastructure
+Master Plan
+North Bengaluru
+Why Invest
+The Roads
+Proximity
+Location Map
+1 
+2 
+6 & 7 
+8
+12
+14
+16
+17
+18
+22
+23
+About Us
+At Fortune One, we create spaces 
+designed to inspire and enhance lifestyles. 
+Committed to quality, innovation, and 
+customer satisfaction, our projects blend 
+modern design with natural surroundings.
+Our vision is to deliver developments that 
+set benchmarks of excellence and provide 
+lasting value. From luxury plotted 
+developments to premium residences, 
+every Fortune One project reflects 
+thoughtful planning, sustainability, and 
+precision.
+We don’t just build properties; we craft 
+communities where dreams flourish, driven 
+by your trust to redefine modern living.
+Fortune One Vistaa
+Nestled near the peaceful Isha Foundation in 
+Chikkaballapur, North Bengaluru, Fortune One 
+Vistaa is an exclusive plotted development 
+featuring just 55 premium villa plots ranging from 
+1200 sqft. to 1500 sqft. Set against the stunning 
+backdrop of Nandi Hills, this project is thoughtfully 
+designed for those who desire a harmonious blend 
+of nature, comfort, and modern living.
+With thematic landscaped greenery that inspires a 
+sense of calm and a fully equipped clubhouse for 
+recreation and relaxation, Fortune One Vistaa 
+offers a rare opportunity to own a piece of 
+tranquility in an upscale setting. Limited to only 55 
+plots, it ensures exclusivity while promising a 
+lifestyle of elegance and serenity.
+02
+03
+Indulge in Luxury
+the Moment You Step In
+Step into a warm and inviting entryway 
+inspired by Bangalore's iconic tree-lined 
+avenues, offering a hospitable atmosphere 
+that welcomes both residents and guests.
+04
+A Haven of
+Comfort and Ease
+The Vista Atrium Clubhouse, spanning an expansive 
+5500 sqft., is the epitome of luxury and exclusivity, 
+designed to serve the residents of our select 55 premium 
+plots. With its modern architectural style, it offers 
+unparalleled amenities, including a state-of-the-art indoor 
+gaming area, a grand banquet hall, and more, ensuring 
+every experience is extraordinary.
+05
+Play More
+Discover a lively community where play takes 
+center stage, fostering connections and enhancing 
+well-being with every shared experience. Refresh, 
+connect, and celebrate each day as a joyful journey 
+in this vibrant sanctuary.
+06
+Swimming Pool
+Kids’ Play Area
+Jogging Track
+Garden/Park
+Public Plaza
+Reading Nook
+Cricket Practice Nets
+Yoga Lawn
+Outdoor Gym
+Electric Vehicle 
+Charging Station
+Barbecue Area
+Pet Zone
+Kid’s Pool
+Club House Parking
+Live More
+Discover elevated living at Vistaa, where the clubhouse 
+is the centerpiece of your lifestyle. It’s a sanctuary of 
+wellness, a vibrant hub for unforgettable gatherings, and 
+a serene escape for daily rejuvenation. Here, life 
+transforms into an art, with thoughtfully designed spaces 
+that inspire your routine and enhance every moment of 
+your day.
+Gym
+Chess
+Banquet Hall
+Table Tennis Room
+Billiards/Snooker 
+Room
+Kids’ Playroom
+Party Terrace
+Co-working Space
+Business Centre
+Library
+Wifi 24/7
+First Aid Room
+Dance Studio
+Café/Lounge
+07
+Electric Vehicle Charging
+Barbeque Area
+Table Tennis Room
+Co-working Space
+08
+Outdoor GYM
+Cafe
+Dance Studio
+09
+Nature's Green Heartbeat
+Here, life blends seamlessly with the 
+richness of nature. Our thoughtfully 
+designed and preserved greenscapes 
+create a living space that radiates peace 
+and beauty, nurturing both the soul and 
+the earth. Discover the delight of a home 
+where nature’s bounty is cherished.
+10
+11
+Meticulously Crafted Infrastructure
+12
+Roads and Pathways
+• Concrete finish internal roads.
+• Pedestrian pathways along the driveway with paver finish.
+• Landscaped avenue plantation on either side of the road.
+• Roads and plots with signages and plot numbering.
+• Each plot will have a defined access finished in concrete/paver from approach road.
+Electrical
+• 100% DG Backup for the common service areas.
+• Underground conduits provision for fibre cables.
+• LED light fixtures.
+• Underground power lines to distribute power from transformer yard up to feeder pillar.
+• Provision to lay cables from feeder pillars to individual plots.
+Plumbing
+• Underground sanitary line network from STP up to plot entry.
+• Underground water supply lines till plot entry.
+• Drip irrigation network for majority common landscape areas.
+Safety and Security
+• Security cabin with boom barriers.
+• Peripheral boundary with entry and exit signages.
+• CCTV surveillance at entry, exit points, service yard and kids' play area.
+Services
+• Overhead water tank for domestic water supply till plot entry.
+Green Features
+Water Conservation
+• Recharge pit for rainwater harvesting.
+Energy Conservation
+• Energy efficient fixtures for common areas.
+• Timer-controlled streetlights.
+• Clubhouse with ample natural lighting and ventilation.
+Landscaped Features
+• Common garden areas.
+• Avenue plantation for internal and master plan roads.
+• Low maintenance plan
+13
+The Master Plan
+"Vistaa" emerges as a beautifully crafted landscape that 
+seamlessly blends luxury, sustainability, and community living. It 
+stands as a testament to careful urban planning, offering a 
+lifestyle of unmatched tranquility and fulfillment.
+LEGENDS
+14
+15
+51’
+54’
+54’
+54’
+54’
+54’
+54’
+54’
+30’
+30’
+30’
+30’
+30’
+30’
+30’
+30’
+30’
+30’
+30’
+30’
+30’
+30’
+1 2 3 4 5 6 7
+11 28
+29 44
+45
+12
+27
+30
+43
+46
+13
+26
+31
+42
+47
+54
+14
+25
+32
+41
+48
+53
+15
+24
+33
+40
+49
+52
+16
+23
+34
+39
+17
+22
+35
+38
+51
+18
+21 36
+37
+19
+20
+8, 9, 10
+16
+15
+3
+2
+17
+14 13 12
+11 10 7
+ 5
+4
+9 8 6
+18
+55
+20
+ 1
+50
+Club House
+Public Plaza
+Swimming Pool
+Cricket Practice Nets
+Entry
+Road
+27’-9”
+16’-5”
+30’ 30’ 30’ 30’ 30’ 30’ 30’ 30’
+30’ 30’ 30’ 30’ 30’ 30’ 30’ 30’
+50’-2”
+50’-6”
+50’-9”
+50’-3”
+50’-6”
+50’-9”
+50’-11”
+52’-2”
+51’-2”
+39’-11”
+31’ 30’ 30’ 30’ 30’ 30’ 30’ 30’
+30’ 20’ 30’ 30’ 30’ 30’ 30’ 30’
+30’ 30’ 30’ 30’ 30’ 30’ 30’
+30’ 30’ 30’ 30’ 30’ 30’
+30’ 30’ 30’ 30’ 30’ 30’
+30’ 30’ 30’ 30’ 30’ 30’
+41’-1”
+51’-1”
+40’-1”
+40’-1”
+40’-1”
+40’-1”
+40’-1”
+40’-1”
+40’-1”
+40’-1”
+49’-11”
+49’-11”
+49’-11”
+49’-11”
+49’-11”
+49’-11”
+49’-11”
+49’-11”
+43’-4”
+23’-3”
+39’-10”
+39’-10”
+39’-10”
+39’-10”
+39’-10”
+39’-10”
+41’
+39’-10”
+50’-2”
+50’-2”
+50’-2”
+50’-2”
+50’-2”
+50’-2”
+51’-2”
+50’-2”
+25’ 25’ 30’ 30’ 30’ 44’-3”
+48’-2” 30’-6”
+19’-3” 5’-6” 30’ 30’ 30’
+66’-10”
+64’-2”
+62’-7”
+61’
+59’-6”
+58’-2”
+53’-9”
+30’ x 40’-1” 30’ x 39’-10” 30’ x 50’-2” 30’ x 54’ 30’ x 49’-11” UNIQUE PLOTS
+An Exciting Sanctuary in
+North Bangalore
+North Bengaluru is rapidly emerging as the 
+city’s most sought-after destination, offering 
+seamless connectivity to Kempegowda 
+International Airport and major IT hubs. With 
+a perfect mix of modern infrastructure, 
+excellent lifestyle amenities, and a peaceful 
+environment, it’s an ideal investment for 
+professionals and families seeking a 
+well-balanced, future-ready lifestyle.
+16
+Why Invest in
+North Bangalore?
+An attractive investment destination.
+Current Infrastructure
+Kempegowda International Airport
+12+ Retail & Recreation Centres
+7+ IT Parks
+10+ Educational Institutions
+5+ Recognized Hospitals
+Future Development
+Devanahalli Business Park (408 acres)
+KIADB Aerospace Park (3,000 acres)
+IFCI Financial District
+BIAL IT Investment Region (12,000 acres)
+Bellary Road Expansion (6 to 8 lanes)
+KIA Infrastructural Upgrade 
+(Kempegowda International Airport) 
+Nano Park
+17
+The Roads
+These wide, chamber-free roads are designed for 
+smooth traffic flow, safety, parking, and accessibility. 
+Dedicated walkways improve convenience, 
+complemented by ample greenery and tree-lined 
+streets that foster an inviting atmosphere.
+18
+19
+20
+9M Road
+Avenue Plantation
+Both sides of the road are designed to host larger 
+trees to provide not only aesthetic appeal but also 
+enhanced privacy.
+Vehicular Movement
+~5.75-meter-wide concrete driveway accommodating 
+two-way vehicular movement.
+Three-Tiered Landscape
+Artfully crafted landscape blending tall and low shrubs 
+along with a tree, bringing the beauty of nature 
+outside every plot.
+Plot Entry
+A dedicated 4-meter-wide entry to each plot, 
+meticulously designed for effortless access.
+21
+9M Road
+22
+Seamless Walkways
+Designed to ensure seamless and uninterrupted 
+walking experiences by minimizing level differences.
+Chamber-Free Driveways
+Al chambers are thoughtfully tucked below the 
+walkways or landscape areas.
+Energy Efficient Lighting
+A combination of solar-powered and electrical 
+streetlights planned at regular intervals.
+Drip Irrigation
+A wel-planned irrigation system for hassle-free 
+landscape maintenance.
+23
+Unlock Easy Access
+and Connectivity
+Adiyogi Isha 
+Foundation
+20 mins 
+Kempegowda 
+International Airport
+30 mins
+Chikkaballapur Railway 
+Station
+10 mins
+NH-44  National 
+Highway (Which 
+Connects to Hyderabad)
+3 mins
+AIMS ( Acharya Institute)
+5 mins
+Nagarjuna Engineering College
+10 mins
+Panoromic views of 
+Nandi Hills
+20 mins
+24
+Isha Foundation
+Harrow
+International School
+Nandi
+Hills
+Rigan
+Restobar
+Oxford English 
+School
+EuroKids
+Pre-School
+Kempegowda
+International 
+Airport
+Akash 
+International School
+Akash
+Hospital
+Esteem
+Mall
+Devanahalli
+Town
+Clarks
+Exotica
+Elements
+Mall
+DMart
+Bhartiya Mall
+KIADB
+Hardware Park
+Cytecare 
+Cancer Hospital
+Ramaiah Leena
+Hospital
+Aster CMI
+Hospital Manipal
+Hospital
+L&T
+Tech Park
+CHIKKAGUBBI
+BAGALUR
+BUDIGERE
+HOSKOTE
+BUDIGERE CROSS
+HBR LAYOUT
+YELAHANKA
+DODDABALLAPURA
+44
+44
+44
+Golfshire
+Map not to scale
+Nagarjuna College Of 
+Engineering & Technology
+istaa
+25
+Chikkabllapur
+Location Map
+RESTAURANTS
+RESORTS
+HOSPITALS
+RETAIL
+EDUCATION
+IT PARKS
+Fortune one Vistaa 
+SY.N0 : 75/1, 75/2 , 76/2
+THOWDANAHALLI VILLAGE, NANDI HOBLI, 
+CHIKKABALLAPURA TALUK 562103
+CUDA Approved and RERA Applied
+Website: fortuneonevistaa.in
+Corporate Office : 
+Fortune one buildco pvt Ltd 
+1st.floor, kfc building Billor’s Pladium, 19/3, Cunning
+ham Rd, Bengaluru, Karnataka 560052
+e-mail: enquiry@fortuneonevistaa.in
+Contact: +91 90501 85997
+Disclaimer: The Company makes no guarantees or representations regarding the accuracy of the information in this document, which is intended solely for general information purposes. It also does not assure the correctness of the information within this document. All 
+interested parties are advised to independently verify the information, including designs, plans, specifications, facilities, features, payment schedules, terms of sales, etc., with the Company before making any decision to purchase in any of the projects. The brochure user 
+acknowledges not relying solely on this information for any booking/purchase in the Company's projects. The provided information, visuals, renders, and creative depictions are merely artistic impressions, indicative in nature, and meant for general information only. Actual 
+design, color, finish, construction, landscape might change subject to design alterations, layout modifications, material changes, site conditions, etc. Furnishings, paintings, or any personalized items not explicitly included in the contract and depicted in images are for 
+illustrative purposes only and do not constitute part of the offer. Additionally, the renders/visuals of areas beyond the project site are artistic and may not represent actual views. While the Company has taken reasonable care in providing this information, it, along with its 
+employees, managers, or representatives, shall not be liable for any loss, damage, special or consequential, arising from reliance on this information without independent verification with the Company. The brochure content is provided "as is" and "as available," with all faults, 
+and no information herein creates a warranty or extends the scope of any warranty beyond what is permissible under applicable laws.
+T & C APPLY*

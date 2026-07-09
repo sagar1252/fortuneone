@@ -1,0 +1,385 @@
+/* RESPONSIVE.CSS - Comprehensive Mobile Styling */
+
+/* MOBILE MENU OVERLAY STYLES (Applies globally but only shown when active) */
+.mobile-menu-btn { display: none; } /* Hidden by default on desktop */
+
+.mobile-overlay {
+  position: fixed;
+  top: 0; left: 0; width: 100%; height: 100vh;
+  background: rgba(13, 20, 26, 0.98);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px); /* Safari support */
+  z-index: 10000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.4s cubic-bezier(0.25, 1, 0.22, 1), visibility 0.4s cubic-bezier(0.25, 1, 0.22, 1);
+  will-change: opacity, visibility; /* GPU acceleration */
+}
+.mobile-overlay.active {
+  opacity: 1;
+  visibility: visible;
+}
+.mobile-overlay-close {
+  position: absolute;
+  top: 2rem; right: 2rem;
+  font-size: 3rem;
+  color: var(--white);
+  cursor: pointer;
+  line-height: 1;
+}
+.mobile-nav-links {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.mobile-nav-links a {
+  color: var(--white);
+  font-size: 1.5rem;
+  font-family: 'Cormorant Garamond', serif;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  transition: color 0.3s;
+}
+.mobile-nav-links a:hover {
+  color: var(--gold-metallic);
+}
+.mobile-dropdown-menu {
+  display: none;
+  list-style: none;
+  padding: 1rem 0 0 0;
+  margin: 0;
+}
+.mobile-dropdown-menu.active {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.mobile-dropdown-menu a {
+  font-size: 1.2rem;
+  color: var(--bronze-light);
+}
+
+@media(max-width:1024px){
+  nav{padding:1.5rem 2rem}
+  nav.scrolled{padding:1rem 2rem}
+  .hero-content{padding:0 4rem}
+  .hero-stats{right:4rem}
+  #why{padding:8rem 4rem}
+  #portfolio .portfolio-header,#testimonials{padding:8rem 4rem}
+  .contact-inner{padding:0 4rem;grid-template-columns:1fr}
+  .contact-left{padding-right:0;margin-bottom:4rem}
+  footer{padding:4rem 4rem 2rem}
+  .footer-top{grid-template-columns:1fr 1fr;gap:3rem}
+  .about-grid{grid-template-columns:1fr;grid-template-rows:50vh auto}
+  .about-content{padding:5rem 4rem}
+  .testi-grid{grid-template-columns:1fr}
+  
+  /* Rotating Badge Tablet responsive scale */
+  .rotating-badge {
+    width: 110px;
+    height: 110px;
+    bottom: 1.5rem;
+    left: 1.5rem;
+  }
+  .badge-center-logo {
+    width: 52px;
+    height: 52px;
+  }
+  .logo-mask {
+    width: 26px;
+    height: 26px;
+  }
+
+  /* Loader Badge Tablet responsive scale */
+  .loader-badge {
+    width: 200px;
+    height: 200px;
+  }
+  .loader-center-logo {
+    width: 96px;
+    height: 96px;
+  }
+  .loader-center-logo .logo-mask {
+    width: 46px;
+    height: 46px;
+  }
+}
+
+@media(max-width:768px){
+  /* Hide desktop nav components */
+  .nav-links, .nav-cta { display:none !important; }
+  
+  /* Show Mobile Menu Icon */
+  .mobile-menu-btn {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 20px;
+    cursor: pointer;
+    z-index: 10001;
+    transition: transform 0.3s;
+  }
+  .hamburger-line {
+    width: 100%;
+    height: 2px;
+    background-color: var(--white);
+    transition: all 0.3s;
+  }
+  .mobile-menu-btn.active .hamburger-line:nth-child(1) {
+    transform: translateY(9px) rotate(45deg);
+  }
+  .mobile-menu-btn.active .hamburger-line:nth-child(2) {
+    opacity: 0;
+  }
+  .mobile-menu-btn.active .hamburger-line:nth-child(3) {
+    transform: translateY(-9px) rotate(-45deg);
+  }
+
+  /* Hero Adjustments */
+  .hero-content{padding:0 2rem}
+  .hero-stats{right:2rem;gap:2rem}
+  .stat-num{font-size:2rem}
+  .hero-headline { font-size: clamp(2.8rem, 12vw, 4rem) !important; line-height: 1.1; }
+  .section-title { font-size: clamp(2.2rem, 8vw, 3rem) !important; }
+
+  /* Grids and Paddings */
+  .why-grid, .about-image-grid, .premium-counters-grid, .blog-grid, .testi-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .portfolio-card { flex: 0 0 300px; height: 420px; }
+  .portfolio-card-content { padding: 1.5rem !important; }
+  .portfolio-card h3 { font-size: 1.6rem !important; }
+  .portfolio-card p {
+    font-size: 0.8rem !important;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .portfolio-card-tag { font-size: 0.65rem !important; }
+  .portfolio-carousel-wrapper .carousel-btn {
+    width: 40px !important;
+    height: 40px !important;
+    font-size: 1.2rem !important;
+  }
+  .portfolio-carousel-wrapper .prev-btn { left: 0px !important; }
+  .portfolio-carousel-wrapper .next-btn { right: 0px !important; }
+  #why, #portfolio, #insights, #testimonials, .about-content, .counter-section {
+    padding: 4rem 2rem !important;
+  }
+  
+  /* Footer Adjustments */
+  footer{padding:3rem 2rem 2rem}
+  .footer-top{grid-template-columns:1fr;gap:2.5rem}
+  .footer-socials { 
+    display: flex !important; 
+    flex-direction: row !important; 
+    gap: 15px !important;
+    margin-top: 1.5rem !important;
+  }
+  .form-row{grid-template-columns:1fr}
+  .contact-inner{padding:0 2rem}
+  
+  /* Hide Rotating Badge on Mobile for ultra-clean mobile UX */
+  .rotating-badge { display: none !important; }
+
+  /* Loader Badge Mobile responsive scale */
+  .loader-badge {
+    width: 170px;
+    height: 170px;
+  }
+  .loader-center-logo {
+    width: 80px;
+    height: 80px;
+  }
+  .loader-center-logo .logo-mask {
+    width: 38px;
+    height: 38px;
+  }
+
+  /* Video Carousel Responsive Wrapper */
+  .video-card iframe {
+    width: 100% !important;
+    height: 100% !important;
+  }
+  .video-card {
+    height: auto !important;
+    aspect-ratio: 16/9;
+  }
+
+  /* Modals */
+  .modal-content, .portfolio-modal-content {
+    width: 95% !important;
+    padding: 2rem 1.5rem !important;
+    margin: 20px auto !important;
+  }
+
+  /* Mobile Header Text / Typography Adjustments */
+  h1, .h1 { font-size: clamp(2.4rem, 8vw, 3.2rem) !important; }
+  h2, .h2 { font-size: clamp(1.8rem, 6vw, 2.4rem) !important; }
+  h3, .h3 { font-size: clamp(1.4rem, 5vw, 1.8rem) !important; }
+  h4, .h4 { font-size: clamp(1.1rem, 4vw, 1.4rem) !important; }
+  
+  /* Home Hero Slider Text & Marquee Spacing */
+  .marquee-wrap {
+    margin-bottom: 2rem !important;
+    position: relative;
+    z-index: 30; /* Ensure marquee sits properly */
+  }
+  #hero-section .captions {
+    bottom: 120px !important; /* Move captions up so they don't hide behind marquee */
+    height: auto !important;
+    z-index: 40;
+  }
+  #hero-section .captions .countWrap {
+    height: 90px !important;
+    margin-right: 15px !important;
+  }
+  #hero-section .captions .count {
+    font-size: 80px !important;
+    line-height: 1 !important;
+  }
+  #hero-section .captions .title {
+    font-size: 18px !important;
+    line-height: 1.4 !important;
+    white-space: nowrap !important; /* Force exactly two lines based on the <br> */
+  }
+  #hero-section .captions .loc {
+    font-size: 13px !important;
+    margin-top: 5px !important;
+  }
+  #hero-section .captions .buttonWrap {
+    padding-top: 15px !important;
+  }
+  #hero-section .captions .titleWrap {
+    margin-top: 8px !important;
+  }
+
+  /* Page specific header sizing */
+  .ab-hero-content .ab-hero-eyebrow,
+  .cr-hero-content .cr-hero-eyebrow {
+    font-size: clamp(1.2rem, 4vw, 1.6rem) !important;
+    gap: 0.5rem !important;
+    flex-wrap: nowrap !important;
+  }
+  .ab-hero-content {
+    padding: 0 1.5rem !important;
+  }
+  .ab-letter-paper {
+    padding: 3rem 1.5rem !important;
+    margin: -40px auto 0 !important;
+  }
+  .ab-wwa-sec, .ab-s3-panels {
+    padding: 0 1.5rem !important;
+  }
+  .ab-hero-content .ab-eyebrow-line {
+    display: none !important; /* Hide horizontal lines on mobile to prevent squishing the text */
+  }
+  .ab-hero-sub, .cr-hero-sub {
+    font-size: 1rem !important;
+    line-height: 1.6 !important;
+    opacity: 1 !important; /* Ensure visibility on mobile */
+  }
+  .ab-wwa-title {
+    font-size: clamp(1.8rem, 6vw, 2.4rem) !important;
+  }
+  .ab-title-dark, .ab-title-light, .cr-title-dark {
+    font-size: clamp(1.8rem, 6vw, 2.4rem) !important;
+  }
+  .ab-letter-title {
+    font-size: clamp(1.8rem, 6vw, 2.4rem) !important;
+  }
+  .ab-s3-panel-title {
+    font-size: clamp(1.4rem, 5vw, 1.8rem) !important;
+  }
+  .sp-title {
+    font-size: clamp(1.8rem, 6vw, 2.4rem) !important;
+  }
+  #loader .l-logo {
+    font-size: clamp(2rem, 8vw, 2.5rem) !important;
+    text-align: center !important;
+    text-indent: 0.3em !important; /* Counteract letter-spacing for perfect centering */
+    width: 100% !important;
+  }
+
+  /* Testimonials Mobile Fixes */
+  .testi-carousel-wrapper {
+    padding: 0 3.5rem !important; /* Gutters for arrows */
+  }
+  .testi-carousel {
+    gap: 1.5rem !important;
+    -webkit-overflow-scrolling: touch !important; /* Smooth momentum scroll */
+  }
+  .testi-card {
+    flex: 0 0 100% !important;
+    padding: 2.5rem 1.5rem !important;
+    will-change: transform; /* Performant translate */
+  }
+  .testi-carousel-wrapper .carousel-btn {
+    display: flex !important; /* Restore arrows on mobile */
+    width: 40px !important;
+    height: 40px !important;
+    font-size: 1.1rem !important;
+    background: rgba(255, 255, 255, 0.85) !important;
+    border: 1px solid rgba(193, 138, 86, 0.4) !important;
+  }
+  .testi-carousel-wrapper .prev-btn {
+    left: 10px !important;
+  }
+  .testi-carousel-wrapper .next-btn {
+    right: 10px !important;
+  }
+  .testi-quote {
+    font-size: 1.15rem !important;
+    margin-bottom: 1.5rem !important;
+  }
+
+  /* Buttery Smooth Momentum Scrolling for other carousels */
+  .sp-gallery, .portfolio-scroll, #vidCarousel {
+    -webkit-overflow-scrolling: touch !important;
+  }
+
+  /* Micro-interactions for Mobile Buttons */
+  .mobile-menu-btn:active, .carousel-btn:active, .bm-time-pill:active {
+    transform: scale(0.92) !important;
+    transition: transform 0.1s ease !important;
+  }
+
+  /* Floating Actions Bottom Dock for Mobile */
+  .fixed-actions {
+    flex-direction: row !important;
+    bottom: 20px !important;
+    top: auto !important;
+    right: auto !important;
+    left: 20px !important;
+    transform: none !important;
+    background: rgba(13, 20, 26, 0.9);
+    padding: 10px 20px !important;
+    border-radius: 50px !important;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.1);
+    gap: 20px !important;
+    width: auto !important;
+  }
+  .fixed-actions .action-btn {
+    display: none !important;
+  }
+  .fixed-actions .action-btn.mobile-show {
+    display: flex !important;
+  }
+
+  /* Prevent vertical wrapping of hero eyebrow text on mobile */
+  .ab-eyebrow-text, .cr-hero-eyebrow {
+    white-space: nowrap !important;
+  }
+}

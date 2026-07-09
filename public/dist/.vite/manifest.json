@@ -1,0 +1,50 @@
+{
+  "node_modules/@splinetool/viewer/build/boolean.js": {
+    "file": "assets/boolean-C9OooAi2.js",
+    "name": "boolean",
+    "src": "node_modules/@splinetool/viewer/build/boolean.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@splinetool/viewer/build/navmesh.js": {
+    "file": "assets/navmesh-BFd9Mv4x.js",
+    "name": "navmesh",
+    "src": "node_modules/@splinetool/viewer/build/navmesh.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@splinetool/viewer/build/opentype.js": {
+    "file": "assets/opentype-D6jUvuOk.js",
+    "name": "opentype",
+    "src": "node_modules/@splinetool/viewer/build/opentype.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@splinetool/viewer/build/physics.js": {
+    "file": "assets/physics-BM4kW-A5.js",
+    "name": "physics",
+    "src": "node_modules/@splinetool/viewer/build/physics.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@splinetool/viewer/build/process.js": {
+    "file": "assets/process-B8HpfOtd.js",
+    "name": "process",
+    "src": "node_modules/@splinetool/viewer/build/process.js",
+    "isDynamicEntry": true
+  },
+  "resources/css/main.css": {
+    "file": "assets/style-B0yRAo8d.css",
+    "src": "resources/css/main.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-B-53JKDL.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/@splinetool/viewer/build/navmesh.js",
+      "node_modules/@splinetool/viewer/build/physics.js",
+      "node_modules/@splinetool/viewer/build/process.js",
+      "node_modules/@splinetool/viewer/build/boolean.js",
+      "node_modules/@splinetool/viewer/build/opentype.js"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+.premium-shadow {
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.05), 0px 4px 12px rgba(0,0,0,0.03);
+}
+
+.milled-border {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+input:focus {
+    outline: none !important;
+    border-color: #111827 !important;
+    box-shadow: 0 0 0 2px #F3F4F6 !important;
+}
+
+.loading-dot {
+    animation: dot-pulse 1.4s infinite ease-in-out both;
+}
+.loading-dot:nth-child(1) { animation-delay: -0.32s; }
+.loading-dot:nth-child(2) { animation-delay: -0.16s; }
+
+@keyframes dot-pulse {
+    0%, 80%, 100% { transform: scale(0); opacity: 0.3; }
+    40% { transform: scale(1); opacity: 1; }
+}

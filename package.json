@@ -1,0 +1,26 @@
+{
+  "name": "fortune-one-animations",
+  "version": "1.0.0",
+  "description": "CodeIgniter 4 Vite Integration",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "@splinetool/viewer": "^1.1.2",
+    "@studio-freight/lenis": "^1.0.42",
+    "aos": "^2.3.4",
+    "gsap": "^3.12.5",
+    "locomotive-scroll": "^4.1.4",
+    "lottie-web": "^5.12.2",
+    "motion": "^10.16.4",
+    "split-type": "^0.3.4",
+    "swiper": "^11.1.0",
+    "three": "^0.164.0",
+    "tsparticles": "^3.3.0",
+    "vanilla-tilt": "^1.8.1"
+  }
+}

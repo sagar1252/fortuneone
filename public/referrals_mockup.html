@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Platform Referrals Analytics</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        brand: {
+                            900: '#0F172A',
+                            800: '#1E293B',
+                            700: '#334155',
+                            accent: '#3B82F6',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" rel="stylesheet" />
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+        body { background-color: #0F172A; color: #F8FAFC; }
+        .glass-panel {
+            background: #1E293B;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
+            border-radius: 1rem;
+        }
+        
+        .data-table th { 
+            background-color: rgba(15, 23, 42, 0.6); 
+            color: #94A3B8; 
+            text-transform: uppercase; 
+            letter-spacing: 0.05em; 
+            font-size: 0.75rem; 
+        }
+        .data-table tr { 
+            border-bottom: 1px solid rgba(51, 65, 85, 0.5); 
+            transition: background-color 0.2s; 
+        }
+        .data-table tr:hover { background-color: rgba(30, 41, 59, 0.8); }
+        .data-table td { 
+            padding: 1rem 1.25rem; 
+            font-size: 0.875rem; 
+            color: #E2E8F0; 
+        }
+    </style>
+</head>
+<body class="min-h-screen font-sans antialiased p-6 md:p-12">
+
+    <div class="max-w-[1400px] mx-auto space-y-6">
+
+        <!-- Header -->
+        <header class="mb-8">
+            <h1 class="text-3xl font-extrabold text-white tracking-tight flex items-center gap-3">
+                <span class="material-symbols-outlined text-brand-accent text-[32px]">share</span>
+                Acquisition Intelligence
+            </h1>
+            <p class="text-slate-400 font-medium mt-1">Platform Referrals and Inbound Traffic Matrix</p>
+        </header>
+
+        <!-- Main Dashboard Split -->
+        <div class="flex flex-col lg:flex-row gap-6">
+
+            <!-- 1. PLATFORM REFERRALS SUMMARY (Left Module 60%) -->
+            <div class="glass-panel p-6 lg:w-[60%] flex flex-col">
+                <div class="flex justify-between items-center mb-6">
+                    <h3 class="text-sm font-bold text-slate-300 uppercase tracking-wider flex items-center gap-2">
+                        <span class="material-symbols-outlined text-purple-400">bar_chart</span> 
+                        Platform Referral Clicks
+                    </h3>
+                </div>
+                <!-- Chart Container -->
+                <div class="flex-grow min-h-[350px] relative">
+                    <canvas id="referralChart"></canvas>
+                </div>
+            </div>
+
+            <!-- 2. CLICK ACQUISITION MATRIX (Right Module 40%) -->
+            <div class="glass-panel overflow-hidden flex flex-col lg:w-[40%]">
+                <div class="p-6 border-b border-slate-700/50 bg-slate-900/40">
+                    <h3 class="text-sm font-bold text-slate-300 uppercase tracking-wider flex items-center gap-2">
+                        <span class="material-symbols-outlined text-emerald-400">format_list_bulleted</span> 
+                        Acquisition Matrix
+                    </h3>
+                </div>
+                <div class="overflow-x-auto flex-grow">
+                    <table class="w-full text-left border-collapse data-table">
+                        <thead>
+                            <tr>
+                                <th class="py-3 px-5">Source Platform</th>
+                                <th class="py-3 px-5 text-right">Unique Visitors</th>
+                                <th class="py-3 px-5 text-right">Page Views</th>
+                                <th class="py-3 px-5 w-32">Traffic Share</th>
+                            </tr>
+                        </thead>
+                        <tbody id="acquisitionMatrixBody">
+                            <!-- Javascript will inject rows here -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- ========================================== -->
+    <!-- APPLICATION LOGIC & DATA INJECTION         -->
+    <!-- ========================================== -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+
+            // ----------------------------------------------------
+            // 1. DATA LAYER (MOCK Node.js JSON PAYLOAD)
+            // ----------------------------------------------------
+            // Ensure your Node.js response maps into these arrays.
+            
+            const apiPayload = {
+                sourceLabels: [
+                    "Google Search", 
+                    "Facebook", 
+                    "Instagram", 
+                    "ChatGPT / AI", 
+                    "LinkedIn", 
+                    "Direct Traffic"
+                ],
+                clickCounts: [42500, 18200, 15400, 8900, 6200, 24800],
+                pageViews: [85000, 25000, 21000, 12500, 8000, 50000],
+                // Brand colors matching the platforms
+                chartColors: [
+                    '#34A853', // Google Green
+                    '#1877F2', // Facebook Blue
+                    '#E1306C', // Instagram Pink
+                    '#10A37F', // ChatGPT Teal
+                    '#0A66C2', // LinkedIn Blue
+                    '#64748B'  // Direct Gray
+                ]
+            };
+
+
+            // ----------------------------------------------------
+            // 2. INITIALIZE REFERRAL BAR CHART
+            // ----------------------------------------------------
+            Chart.defaults.color = '#94A3B8';
+            Chart.defaults.font.family = "'Inter', sans-serif";
+
+            const ctxReferral = document.getElementById('referralChart').getContext('2d');
+            
+            new Chart(ctxReferral, {
+                type: 'bar',
+                data: {
+                    labels: apiPayload.sourceLabels,
+                    datasets: [{
+                        label: 'Referral Clicks',
+                        data: apiPayload.clickCounts,
+                        backgroundColor: apiPayload.chartColors,
+                        borderRadius: 6,
+                        borderSkipped: false,
+                        barThickness: 'flex',
+                        maxBarThickness: 50
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            backgroundColor: 'rgba(15, 23, 42, 0.95)',
+                            titleColor: '#F8FAFC',
+                            bodyColor: '#E2E8F0',
+                            borderColor: 'rgba(51, 65, 85, 0.6)',
+                            borderWidth: 1,
+                            padding: 12,
+                            cornerRadius: 8,
+                            displayColors: true,
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: { color: 'rgba(51, 65, 85, 0.3)', drawBorder: false },
+                            ticks: { color: '#64748B', font: { weight: '600' } }
+                        },
+                        x: {
+                            grid: { display: false, drawBorder: false },
+                            ticks: { color: '#CBD5E1', font: { weight: '600' }, maxRotation: 45, minRotation: 45 }
+                        }
+                    }
+                }
+            });
+
+
+            // ----------------------------------------------------
+            // 3. POPULATE ACQUISITION MATRIX GRID
+            // ----------------------------------------------------
+            const gridBody = document.getElementById('acquisitionMatrixBody');
+            
+            // Calculate total clicks to determine share percentage for the gauge
+            const totalClicks = apiPayload.clickCounts.reduce((sum, val) => sum + val, 0);
+            
+            // Map the arrays into an array of objects to make sorting/rendering easier
+            let tableData = apiPayload.sourceLabels.map((label, index) => {
+                return {
+                    source: label,
+                    clicks: apiPayload.clickCounts[index],
+                    views: apiPayload.pageViews[index],
+                    color: apiPayload.chartColors[index],
+                    sharePct: ((apiPayload.clickCounts[index] / totalClicks) * 100).toFixed(1)
+                };
+            });
+
+            // Sort data by highest clicks for the table
+            tableData.sort((a, b) => b.clicks - a.clicks);
+
+            // Inject rows
+            tableData.forEach(row => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td class="font-bold text-white flex items-center gap-2">
+                        <div class="w-3 h-3 rounded-full" style="background-color: ${row.color}"></div>
+                        ${row.source}
+                    </td>
+                    <td class="text-right font-bold text-blue-400">${row.clicks.toLocaleString()}</td>
+                    <td class="text-right font-semibold text-slate-300">${row.views.toLocaleString()}</td>
+                    <td class="pl-6">
+                        <div class="flex items-center gap-2">
+                            <div class="w-full bg-slate-800 rounded-full h-2 overflow-hidden shadow-inner">
+                                <div class="h-2 rounded-full" style="width: ${row.sharePct}%; background-color: ${row.color};"></div>
+                            </div>
+                            <span class="text-xs font-mono font-bold text-slate-400 w-8 text-right">${row.sharePct}%</span>
+                        </div>
+                    </td>
+                `;
+                gridBody.appendChild(tr);
+            });
+
+        });
+    </script>
+</body>
+</html>
